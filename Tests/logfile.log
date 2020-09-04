@@ -1,0 +1,27 @@
+04/09/2020 08:27:58 PM :INFO :test_formSubmission :Getting first Name :Ruchita
+04/09/2020 08:27:58 PM :INFO :test_formSubmission :Getting Email address :Ruchi@gmail.com
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting Password :Ruchi123
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :clicking the checkbox
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting Gender Info :Female
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting Employment Info :Employed
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting Birthday info :31-12-1990
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Text received after form submission is :×
+Success! The Form has been submitted successfully!.
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting first Name :Sushant
+04/09/2020 08:27:59 PM :INFO :test_formSubmission :Getting first Name :Sushant
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Email address :Sushant@gmail.com
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Email address :Sushant@gmail.com
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Password :Sushant123
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Password :Sushant123
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :clicking the checkbox
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :clicking the checkbox
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Gender Info :Male
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Gender Info :Male
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Employment Info :Employed
+04/09/2020 08:28:00 PM :INFO :test_formSubmission :Getting Employment Info :Employed
+04/09/2020 08:28:01 PM :INFO :test_formSubmission :Getting Birthday info :05-06-1991
+04/09/2020 08:28:01 PM :INFO :test_formSubmission :Getting Birthday info :05-06-1991
+04/09/2020 08:28:01 PM :INFO :test_formSubmission :Text received after form submission is :×
+Success! The Form has been submitted successfully!.
+04/09/2020 08:28:01 PM :INFO :test_formSubmission :Text received after form submission is :×
+Success! The Form has been submitted successfully!.
